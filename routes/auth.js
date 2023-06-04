@@ -12,7 +12,8 @@ router.post("/register", async (req, res) => {
     year:req.body.year,
     branch:req.body.branch,
     Linkedin:req.body.Linkedin,
-    github:req.body.github
+    github: req.body.github,
+    clg: req.body.clg
   })
   const userE = await User.findOne({ email: newuser.email });
   if (userE) {
@@ -50,8 +51,19 @@ router.post('/login', async (req, res) => {
     return res.status(400).json({ message: "some error occured", success: "fail" });
   }
 })
+
+
+
 router.post("/updateProfile", async (req, res) => {
-  let doc = await User.findOneAndUpdate(req.body.filter, req.body.update);
+  try {
+    let doc = await User.findOneAndUpdate(req.body.filter, req.body.update, {
+      new: true
+    });
+    return res.json({ user: doc, message: "some error occured", success: "success" })
+  } catch (error) {
+    return res.status(400).json({ message: "some error occured", success: "fail" });
+  }
+
 })
 
 module.exports = router;
