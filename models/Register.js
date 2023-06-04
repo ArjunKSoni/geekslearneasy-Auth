@@ -31,6 +31,10 @@ const RegisterSchema = new mongoos.Schema({
         type: String,
         required: true,
     },
+    clg: {
+        type: String,
+        required: true,
+    },
 })
 const Register = new mongoos.model("Authentication", RegisterSchema)
 

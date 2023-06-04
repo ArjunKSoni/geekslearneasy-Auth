@@ -50,5 +50,8 @@ router.post('/login', async (req, res) => {
     return res.status(400).json({ message: "some error occured", success: "fail" });
   }
 })
+router.post("/updateProfile", async (req, res) => {
+  let doc = await User.findOneAndUpdate(req.body.filter, req.body.update);
+})
 
 module.exports = router;
