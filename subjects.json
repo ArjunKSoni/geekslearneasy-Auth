@@ -1,0 +1,842 @@
+[
+  {
+    "DBMS": [
+      {
+        "Notes": [
+          {
+            "unit1": [
+              {
+                "pdf1": "https://drive.google.com/file/d/1r6eOB5QWTu5iqFMi2TPXn6dOb-mO7uHn/preview"
+              },
+              {
+                "pdf2": "https://drive.google.com/file/d/1zt42A4tamLNbYLcSfkv0GUiwNtJveiS1/preview"
+              },
+              {
+                "pdf3": "https://drive.google.com/file/d/18g1j1tPXdyaKe_g2OuOKbR78gD2jz1im/preview"
+              },
+              {
+                "pdf4": "https://drive.google.com/file/d/1HHjA8vCCK9Rll7zXOeq06eLX9QjNtnxw/preview"
+              }
+            ]
+          },
+          {
+            "unit2": [
+              {
+                "pdf1": "https://drive.google.com/file/d/1gH7KqEAQY90ZMzDEKNa82Bz6_PtnEkHY/preview"
+              }
+            ]
+          },
+          {
+            "unit3": [
+              false
+            ]
+          },
+          {
+            "unit4": [
+              false
+            ]
+          }
+        ]
+      },
+      {
+        "pyqs": [
+          false
+        ]
+      },
+      {
+        "ImpQuestions": [
+          false
+        ]
+      },
+      {
+        "syllabus": "https://drive.google.com/file/d/1zETjUusOr5gtXeFD4FkDNixfr6n61RLY/preview"
+      }
+    ]
+  },
+  {
+    "MLO": [
+      {
+        "Notes": [
+          {
+            "unit1": [
+              {
+                "pdf1": "https://drive.google.com/file/d/1HojwnTGs9F8yr6KGuK1tCMFCVHd8vPZv/preview"
+              },
+              {
+                "pdf2": "https://drive.google.com/file/d/15OMUI5F1NyVmPU3St_blli8Hr8W7y8R3/preview"
+              },
+              {
+                "pdf3": "https://drive.google.com/file/d/1Cc7TvvTKhwC88E0iu5JbZCiiND_O6XEg/preview"
+              },
+              {
+                "pdf4": "https://drive.google.com/file/d/1PNkN_bbtSKKajh1NPhZnoZkHXXr5dj0r/preview"
+              },
+              {
+                "pdf5": "https://drive.google.com/file/d/1BVTfiiV0YIuoAGDccf8wx0KfaVFvzzi5/preview"
+              },
+              {
+                "pdf6": "https://drive.google.com/file/d/11YL6SSMRFQEW3K-9Un_Y4lRezTUcwBtn/preview"
+              },
+              {
+                "pdf7": "https://drive.google.com/file/d/1CqCt2nQtDDUI3Xlg9Wugsl1oy6vWc0mP/preview"
+              },
+              {
+                "pdf8": "https://drive.google.com/file/d/1ea5DZMAUW6xGXChaU-NwFoB0Pc9a0rC2/preview"
+              },
+              {
+                "pdf9": "https://drive.google.com/file/d/182l9iJo4TBNUCHHXMyFpEofb0ft4mGzl/preview"
+              },
+              {
+                "pdf10": "https://drive.google.com/file/d/1KJ-Oyiqtyu0MY56nliuLt7MGGB5WQtYp/preview"
+              }
+            ]
+          },
+          {
+            "unit2": [
+              {
+                "pdf1": "https://drive.google.com/file/d/1Js3AQRnFBJKkvSDNEouZk3nZX60T9Yim/preview"
+              },
+              {
+                "pdf2": "https://drive.google.com/file/d/10oohWtlt9YggFfRfkxOV_3EirrkkXzW_/preview"
+              },
+              {
+                "pdf3": "https://drive.google.com/file/d/1TsdBckV6iPK7RN7AhUAG3IY4mLgQR1aw/preview"
+              },
+              {
+                "pdf4": "https://drive.google.com/file/d/1EWQp7YqEuqYfLdHMEc7R7wSNmCa7hQWl/preview"
+              },
+              {
+                "pdf5": "https://drive.google.com/file/d/1JP2iuAR83U_I6UpLeQlz93e6vYo7JYme/preview"
+              },
+              {
+                "pdf6": "https://drive.google.com/file/d/1JP2iuAR83U_I6UpLeQlz93e6vYo7JYme/preview"
+              },
+              {
+                "pdf7": "https://docs.google.com/presentation/d/1RAIs2tAncEd8IZkxgnKs5ZzPtgSJlG2D/preview"
+              },
+              {
+                "pdf8": "https://drive.google.com/file/d/1x1D5FkfazRFI6VT64S5AY3sfy9-kZRxD/preview"
+              }
+            ]
+          },
+          {
+            "unit3": [
+              {
+                "pdf1": "https://drive.google.com/file/d/16jhVEP9sySnRRaMyDOSHzTvMqwPM8tMX/preview"
+              },
+              {
+                "pdf2": "https://drive.google.com/file/d/12YxtVL05tJG9E_sXZYUZWUw3il3uYB4_/preview"
+              },
+              {
+                "pdf3": "https://docs.google.com/presentation/d/1KAnv2YFUtyrotmoEqO95bcYU2D2Gbb4D/preview"
+              }
+            ]
+          },
+          {
+            "unit4": [
+              {
+                "pdf1": "https://drive.google.com/file/d/1_EPIS6vpwmUSFssRSmd7HPw_OGNwWUbG/preview"
+              },
+              {
+                "pdf2": "https://drive.google.com/file/d/1aglZYnz2pGzJ9SNlRP8VD0QqJUkdikLy/preview"
+              },
+              {
+                "pdf3": "https://drive.google.com/file/d/1uvon9_wDvRDzs6MQFBYYDwZua81alBNh/preview"
+              },
+              {
+                "pdf4": "https://drive.google.com/file/d/15_bANI0iAvHaAq8XrvcViJuOb1CepCCx/preview"
+              },
+              {
+                "pdf5": "https://drive.google.com/file/d/1Cu0kl5NUx7Yk88Z5mbt6EKsp-cb9Hq8D/preview"
+              }
+            ]
+          },
+          {
+            "unit5": [
+              {
+                "pdf1": "https://drive.google.com/file/d/1iFDzCv2k6H7sf5Mv2JPsOcZMGToGNN33/preview"
+              },
+              {
+                "pdf2": "https://drive.google.com/file/d/1z2jHMjTmwCDsdbiSTsaFx1dlYIOXsTLJ/preview"
+              },
+              {
+                "pdf3": "https://drive.google.com/file/d/1SVtD0GYgtBor6v8RkhjYsOLw0Ku_JwwU/preview"
+              },
+              {
+                "pdf4": "https://drive.google.com/file/d/18BHwPZUND393kD6sP3kD9MPeoxgAhCSI/preview"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "pyqs": [
+          false
+        ]
+      },
+      {
+        "ImpQuestions": [
+          {
+            "ques1": "https://drive.google.com/file/d/1kn6LzIiqqEaUygXJeFZYWH4W1G8XH5RI/preview"
+          }
+        ]
+      },
+      {
+        "syllabus": "https://drive.google.com/file/d/1zdBNiXYOiYweKYR2QgDh0vyzXsTHvQXh/preview"
+      }
+    ]
+  },
+  {
+    "OS": [
+      {
+        "Notes": [
+          {
+            "unit1": [
+              {
+                "pdf1": "https://drive.google.com/file/d/1iEpkq5X1FwfuTIEGyy-w2D4wxMyQJmoQ/preview"
+              },
+              {
+                "pdf2": "https://drive.google.com/file/d/1YixUjp_8c5Mxm7dz4a1hhspDMusjK5aD/preview"
+              },
+              {
+                "pdf3": "https://drive.google.com/file/d/18dVqvGWqjW19_v_knCOmjCkSsNyK2LZ2/preview"
+              }
+            ]
+          },
+          {
+            "unit2": [
+              {
+                "pdf1": "https://drive.google.com/file/d/105XSbDRl4FVDB6UCwMikT3S0eOCMnsLI/preview"
+              },
+              {
+                "pdf2": "https://drive.google.com/file/d/1mifhkDUjIVfn5mkc3U8gj6M8kfrOs7KT/preview"
+              }
+            ]
+          },
+          {
+            "unit3": [
+              {
+                "pdf1": "https://drive.google.com/file/d/1K7uf0yO6NyPzJlcpFo_g7kcS8DpGsWWl/preview"
+              },
+              {
+                "pdf2": "https://drive.google.com/file/d/1qUPQlo9u3LFc3ChyqxgmajNG_doD2odS/preview"
+              },
+              {
+                "pdf3": "https://drive.google.com/file/d/1lFr5oftXi0GhbkdydyHxLJFfkVqVo3GM/preview"
+              },
+              {
+                "pdf4": "https://drive.google.com/file/d/1gElncLHx1nmJ2nsKMETJtZTVPV2LYnj9/preview"
+              }
+            ]
+          },
+          {
+            "unit4": [
+              {
+                "pdf1": "https://drive.google.com/file/d/1mPp4Mo83pLL041jH9pBIorZysyJaNuXw/preview"
+              },
+              {
+                "pdf2": "https://drive.google.com/file/d/1nZboNrdXpDE20GbNCKcWhpJSNxcTzrDp/preview"
+              },
+              {
+                "pdf3": "https://drive.google.com/file/d/1q6OCb07V9pX_0qzU7NUDH7QRSWdKSuBj/preview"
+              }
+            ]
+          },
+          {
+            "unit5": [
+              {
+                "pdf1": "https://drive.google.com/file/d/1aMkT6cWHFA2xyL9diRhGXEKpnqhBAz3O/preview"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "pyqs": [
+          {
+            "pyq1": "https://drive.google.com/file/d/1rwZ7X1LHRACOCuNViKDVRF-cXR0rAU9Z/preview"
+          },
+          {
+            "pyq2": "https://drive.google.com/file/d/179scmdDDdriyrCaKBrEj3GOen7tauyYI/preview"
+          },
+          {
+            "pyq3": "https://drive.google.com/file/d/1YGMKVxXnHQozbTEdfvrw7BVfVQ7ACtAz/preview"
+          },
+          {
+            "pyq4": "https://drive.google.com/file/d/1w52W50wz5J6e5i2yNtSBWg0VINB9X5fx/preview"
+          }
+        ]
+      },
+      {
+        "ImpQuestions": [
+          false
+        ]
+      },
+      {
+        "syllabus": "https://drive.google.com/file/d/1US_ludz1zM-PdMgo0_I5C5d8GzCLCJsu/preview"
+      }
+    ]
+  },
+  {
+    "NWS": [
+      {
+        "Notes": [
+          {
+            "unit1": [
+              {
+                "pdf1": "https://drive.google.com/file/d/1UgUfJ4mKfpWxJGQP7RDu6M-L-hsbUqVy/preview"
+              },
+              {
+                "pdf2": "https://drive.google.com/file/d/1tYE-X4wVt8J4sTbcf_yUjnTeNx0VoTWb/preview"
+              },
+              {
+                "pdf3": "https://drive.google.com/file/d/14vH5RBmRz6VDCygAjhJNLq3EHl9WRR9d/preview"
+              }
+            ]
+          },
+          {
+            "unit2": [
+              {
+                "pdf1": "https://drive.google.com/file/d/1PkkIu437KzlL9-nDzWaD1P5Xi8zz9sxB/preview"
+              },
+              {
+                "pdf2": "https://drive.google.com/file/d/1p9oYUbUMFV3NPRCLO6_KILvh7q7A5ozY/preview"
+              },
+              {
+                "pdf3": "https://drive.google.com/file/d/1s16jNtxiRWjsrclyLcNLKOuIKc2W1ciW/preview"
+              },
+              {
+                "pdf4": "https://drive.google.com/file/d/16YRcTkraKMqy_CBe66S0HaoVj_tlJZMC/preview"
+              },
+              {
+                "pdf5": "https://drive.google.com/file/d/1F2L67EjpwlfzowRh0VgwS5bXj8nJo50p/preview"
+              },
+              {
+                "pdf6": "https://drive.google.com/file/d/1YFKwkyOeAAfXMmFAzp8mLyhVN0i4Rk_J/preview"
+              },
+              {
+                "pdf7": "https://drive.google.com/file/d/1KBOdbLXKa5SgnV_zGbLqwOUjEwJY5LYc/preview"
+              }
+            ]
+          },
+          {
+            "unit3": [
+              {
+                "pdf1": "https://drive.google.com/file/d/1z_1AjMm04OTpcenkTRSRj5NOp6Mga1Uo/preview"
+              },
+              {
+                "pdf2": "https://drive.google.com/file/d/1Hry37yDRWOLp7Fl7T1eoXDsJs8wDdPj-/preview"
+              }
+            ]
+          },
+          {
+            "unit4": [
+              {
+                "pdf1": "https://drive.google.com/file/d/1wSmIzTDLDhkWLWD-52FbfMQ2FpjV2AqE/preview"
+              },
+              {
+                "pdf2": "https://drive.google.com/file/d/1zQQR9t53bPZshasSyCu5y1tsOf_q_c3-/preview"
+              },
+              {
+                "pdf3": "https://drive.google.com/file/d/1juraeW5fpfgw3LWnXNTVOPXOGpugdwJ-/preview"
+              },
+              {
+                "pdf4": "https://drive.google.com/file/d/1y47F_DJMHoMEMP3KpkWizpHO1EvRagUF/preview"
+              }
+            ]
+          },
+          {
+            "unit5": [
+              {
+                "pdf1": "https://drive.google.com/file/d/1FrFUjccEdJ3hsozhZWkUR91KzPTCp4WQ/preview"
+              },
+              {
+                "pdf2": "https://drive.google.com/file/d/1ojPfQPXXFZN5LA7HOM9Vmpti1Q8hm0xn/preview"
+              },
+              {
+                "pdf3": "https://drive.google.com/file/d/144CS6EE8cXUHHD7kj5ySzakjezN1dP6P/preview"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "pyqs": [
+          {
+            "pyq1": "https://drive.google.com/file/d/1Jv8q5nxTyFIOp4MeUCZUAu5RvUul9qfe/preview"
+          },
+          {
+            "pyq2": "https://drive.google.com/file/d/1pHhdw5yy5O-pYrYq3D2A6fg-3DWRj7x6/preview"
+          },
+          {
+            "pyq3": "https://drive.google.com/file/d/1cPxYE7ByGWB-E-UlnwxKHFKgkJlzYO1k/preview"
+          }
+        ]
+      },
+      {
+        "ImpQuestions": [
+          false
+        ]
+      },
+      {
+        "syllabus": "https://drive.google.com/file/d/1oWvBZ48EaWF3cGnGtFj4Rb5_1wZxpu5q/preview"
+      }
+    ]
+  },
+  {
+    "DS": [
+      {
+        "Notes": [
+          {
+            "unit1": [
+              {
+                "pdf1": "https://drive.google.com/file/d/1DReDoAPBgdF8VU9HMd3yZjtzNB78IzlI/preview"
+              },
+              {
+                "pdf2": "https://drive.google.com/file/d/1m2tto1qi8azJOhCc3woHLctrwnyG8iM0/preview"
+              },
+              {
+                "pdf3": "https://drive.google.com/file/d/1L0Dd9v3MKxBZJo1c0IqE9030yXVXC62w/preview"
+              },
+              {
+                "pdf4": "https://drive.google.com/file/d/1VPftrt736OEtfV6CrbrVt4wMyvZFljv9/preview"
+              },
+              {
+                "pdf5": "https://drive.google.com/file/d/1zaoS8PtI5W90QjKn-Edm2zBULm_9sh1_/preview"
+              },
+              {
+                "pdf6": "https://drive.google.com/file/d/1PBwTlfUTIxcdwK4Pze_wWQp7b5oN8BgM/preview"
+              }
+            ]
+          },
+          {
+            "unit2": [
+              {
+                "pdf1": "https://drive.google.com/file/d/1gNfEJDvI_VbBPMF_BxzRMbBuaJAA5a3R/preview"
+              }
+            ]
+          },
+          {
+            "unit3": [
+              {
+                "pdf1": "https://drive.google.com/file/d/1Xikeg4WKN_LtfaAiyx3Efcm0syQ5wrML/preview"
+              },
+              {
+                "pdf2": "https://drive.google.com/file/d/1oK5nQ-pNQseWMS6ylBukdlsV7n2hZyy9/preview"
+              }
+            ]
+          },
+          {
+            "unit4": [
+              {
+                "pdf1": "https://drive.google.com/file/d/1Uu36ta56YXwPrhotmhDH04PHfdd_-y17/preview"
+              },
+              {
+                "pdf2": "https://drive.google.com/file/d/1TkxbsoTPpTKuM4p1Z-A0oO-n-GTDT_jy/preview"
+              }
+            ]
+          },
+          {
+            "unit5": [
+              {
+                "pdf1": "https://drive.google.com/file/d/13noQMWDbtIfspf1y6-dfx24D9oyHh19S/preview"
+              },
+              {
+                "pdf2": "https://drive.google.com/file/d/1jP-_p0w1jQTpuWw_BQXeEPXkYN7tEOne/preview"
+              },
+              {
+                "pdf3": "https://drive.google.com/file/d/1pr8_KW_j_e9BDSQAbyV3hjxaBBRrM3y2/preview"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "pyqs": [
+          {
+            "pyq1": "https://drive.google.com/file/d/1xAv6Pgt1ctXwK1sLveW11Ty4s7Fpme4N/preview"
+          }
+        ]
+      },
+      {
+        "ImpQuestions": [
+          false
+        ]
+      },
+      {
+        "syllabus": "https://drive.google.com/file/d/1qakEBBFZhl_EoXkm2CfxtfA50ZXQGY8n/preview"
+      }
+    ]
+  },
+  {
+    "CNP": [
+      {
+        "Notes": [
+          {
+            "unit1": [
+              {
+                "pdf1": "https://drive.google.com/file/d/1QeuBrYfrIbzS9_6-VmVql2PfSuehqF0V/preview"
+              },
+              {
+                "pdf2": "https://drive.google.com/file/d/1mRhRiaE7v8wsoB8hmOWvcvpa3kt1j1BI/preview"
+              },
+              {
+                "pdf3": "https://drive.google.com/file/d/12rjAxkGTcinhwT1VyG7cWxZ4q-6LPv42/preview"
+              },
+              {
+                "pdf4": "https://drive.google.com/file/d/1xZDJg6v-Z4piHhdAIw_d4KGZq1R7bzes/preview"
+              },
+              {
+                "pdf5": "https://drive.google.com/file/d/1YqwGobaGhEHV4ZsxNyAsjXASN_w5fd84/preview"
+              },
+              {
+                "pdf6": "https://drive.google.com/file/d/15B5pvJztDvBfbdCAlyVpmnIJmTx2LEJ5/preview"
+              },
+              {
+                "pdf7": "https://drive.google.com/file/d/1k2-cz1UkqFj0KEs21EHYU6eWPSulb-Dc/preview"
+              }
+            ]
+          },
+          {
+            "unit2": [
+              {
+                "pdf1": "https://drive.google.com/file/d/1GM6Y87TbrPXV3m_au0qi3xlEqcuxPwFy/preview"
+              },
+              {
+                "pdf2": "https://drive.google.com/file/d/1pF6fs3Zy7gXPa3RWFn5IatdeosO-hul0/preview"
+              },
+              {
+                "pdf3": "https://drive.google.com/file/d/1L6rrsXIszrTQExJFbeiO64aIgfjxUdlx/preview"
+              },
+              {
+                "pdf4": "https://drive.google.com/file/d/1S2bXCjchILZI2YQOhyJ16_ndxI4jSBRK/preview"
+              },
+              {
+                "pdf5": "https://drive.google.com/file/d/1AKMblq7SttJY9zge2fzNviyu4SdYvwW0/preview"
+              },
+              {
+                "pdf6": "https://drive.google.com/file/d/1mGhLy30tqPK7cmkZ62mO14aN_EEWi2NR/preview"
+              }
+            ]
+          },
+          {
+            "unit3": [
+              {
+                "pdf1": "https://drive.google.com/file/d/1T_rygB0WggMPCwxEKMAHbBH2NW2INrXf/preview"
+              },
+              {
+                "pdf2": "https://drive.google.com/file/d/1wb7xIvS2yxVtkWec8kAhet0W4-RYXoo2/preview"
+              }
+            ]
+          },
+          {
+            "unit4": [
+              false
+            ]
+          },
+          {
+            "unit5": [
+              false
+            ]
+          }
+        ]
+      },
+      {
+        "pyqs": [
+          {
+            "pyq1": "https://drive.google.com/file/d/19D1nwa5BUtVXdabrKz2a6TT1r7yfTU1b/preview"
+          },
+          {
+            "pyq2": "https://drive.google.com/file/d/1Rq6xYh3MrfvzgWvoxPb73vfIo4M6V66Q/preview"
+          },
+          {
+            "pyq3": "https://drive.google.com/file/d/1_UGzI1T6JK31B4r_dJnN4G5QT2973SDW/preview"
+          },
+          {
+            "pyq4": "https://drive.google.com/file/d/1hR10Rba-n5335JBnD9sfy1MfoLfmD4Fy/preview"
+          },
+          {
+            "pyq5": "https://drive.google.com/file/d/1gshnQb1jTEq6aFI8muft9JIlHGrljp4-/preview"
+          },
+          {
+            "pyq6": "https://drive.google.com/file/d/1ZwQYcMQfbUdoRZUSUIDyvckqSsF3-o4F/preview"
+          },
+          {
+            "pyq7": "https://drive.google.com/file/d/1Oqo9874RAQCkH3lzoNTrnY3RayYTL6uW/preview"
+          }
+        ]
+      },
+      {
+        "ImpQuestions": [
+          false
+        ]
+      },
+      {
+        "syllabus": "https://drive.google.com/file/d/12WToGPXKkrHcWZrLt0xcFgH8Vb1xxqYE/preview"
+      }
+    ]
+  },
+  {
+    "CC": [
+      {
+        "Notes": [
+          {
+            "unit1": [
+              {
+                "pdf1": "https://drive.google.com/file/d/1r8Fztzqo9HvFC_ZJtO1aIv55T-nO_eaJ/preview"
+              },
+              {
+                "pdf2": "https://drive.google.com/file/d/1KVb36GYtGveH795K-y67QqEXYr3okb4a/preview"
+              },
+              {
+                "pdf3": "https://drive.google.com/file/d/1p6OK8ylsGRewkHJleaod_fHwJ6oVjmWV/preview"
+              }
+            ]
+          },
+          {
+            "unit2": [
+              {
+                "pdf1": "https://drive.google.com/file/d/1QxvTAkURWjjq4D7nxEjMbvPJEYJQyosi/preview"
+              },
+              {
+                "pdf2": "https://drive.google.com/file/d/1_UL58f3v5lId_c70cd-fJ6SZUbvGMYkr/preview"
+              }
+            ]
+          },
+          {
+            "unit3": [
+              {
+                "pdf1": "https://drive.google.com/file/d/10_HkoDWF6Ys7AEOQJrwk0_IX2j9a-nN3/preview"
+              }
+            ]
+          },
+          {
+            "unit4": [
+              {
+                "pdf1": "https://drive.google.com/file/d/1u-a3VhBQuQhz8MNdOk_kuY78nkSj3onp/preview"
+              }
+            ]
+          },
+          {
+            "unit5": [
+              {
+                "pdf1": "https://drive.google.com/file/d/1OPNAyJwH0vTZlAuAlRilgKXGbo4CkXCB/preview"
+              },
+              {
+                "pdf2": "https://drive.google.com/file/d/1H6aDGKG3VIwBEXogRbI1GT08r4-FT9tT/preview"
+              },
+              {
+                "pdf3": "https://drive.google.com/file/d/1cxOK0K6eMEvcdMKZmKN-YQxUyxRFTACz/preview"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "pyqs": [
+          false
+        ]
+      },
+      {
+        "ImpQuestions": [
+          false
+        ]
+      },
+      {
+        "syllabus": "https://drive.google.com/file/d/1ZHe008se1FlApmP810HA3lhvzbs-repJ/preview"
+      }
+    ]
+  },
+  {
+    "DAA": [
+      {
+        "Notes": [
+          {
+            "unit1": [
+              {
+                "pdf1": "https://drive.google.com/file/d/1MUkEad6aZI5cZhNlwm8coOhevbC4jmPX/preview"
+              },
+              {
+                "pdf2": "https://drive.google.com/file/d/1s5sycNlpvf2sdyjAEVL23--ySa46cfCa/preview"
+              },
+              {
+                "pdf3": "https://drive.google.com/file/d/1iOxVrdkn0NzK4yKGbB_JxpwwBvXGtfjY/preview"
+              },
+              {
+                "pdf4": "https://drive.google.com/file/d/1XvNRr5_fatcsHd0vDXhOMJTXUbTYqM2n/preview"
+              }
+            ]
+          },
+          {
+            "unit2": [
+              {
+                "pdf1": "https://drive.google.com/file/d/1YiJu3ePZpBp7LmbJymfrdKwaMPGaoPfe/preview"
+              },
+              {
+                "pdf2": "https://drive.google.com/file/d/1_U8FJqkkX7N-3lENqhlng530h0Oh4oeN/preview"
+              },
+              {
+                "pdf3": "https://drive.google.com/file/d/14XM6uz2Qb8kCfwD_KZpNiRoHyBxJ6V7O/preview"
+              },
+              {
+                "pdf4": "https://drive.google.com/file/d/1TuVSDlmd-tbFCAVVD8WZ0IcXsRd5ERlq/preview"
+              }
+            ]
+          },
+          {
+            "unit3": [
+              {
+                "pdf1": "https://drive.google.com/file/d/1goHzYHFat0TJBLuucWz7LZHdElBOS5Fm/view?usp=drive_link"
+              },
+              {
+                "pdf2": "https://drive.google.com/file/d/1sNDSvAo2NtgS3MDbyQf0g9JCMQ_hnhe5/view?usp=drive_link"
+              },
+              {
+                "pdf3": "https://drive.google.com/file/d/1sDVnVykm2moL-7hqWm446gZ_Oq_rsLmg/view?usp=drive_link"
+              },
+              {
+                "pdf4": "https://docs.google.com/presentation/d/1sOUHlYPYirGfkPx9L2ukFk1FyCCndIfW/edit?usp=drive_link&ouid=103968431866997588594&rtpof=true&sd=true"
+              },
+              {
+                "pdf5": "https://docs.google.com/presentation/d/1D5v1TftkXQtGnPn37M8V7Me2tcbdMOIc/edit?usp=drive_link&ouid=103968431866997588594&rtpof=true&sd=true"
+              },
+              {
+                "pdf6": "https://docs.google.com/presentation/d/1MXaSLby19ZBR3gabw9CqLmSsHSllj1s2/edit?usp=drive_link&ouid=103968431866997588594&rtpof=true&sd=true"
+              },
+              {
+                "pdf7": "https://docs.google.com/presentation/d/14xjRaCDK7mJSm3-xhXF-_kxhVyN8uedM/edit?usp=drive_link&ouid=103968431866997588594&rtpof=true&sd=true"
+              }
+            ]
+          },
+          {
+            "unit4": [
+              {
+                "pdf1": "https://docs.google.com/presentation/d/1UmK0SOD5nnyCqDTWl5aPJHgBfEWpu8IR/edit?usp=drive_link&ouid=103968431866997588594&rtpof=true&sd=true"
+              }
+            ]
+          },
+          {
+            "unit5": [
+              false
+            ]
+          }
+        ]
+      },
+      {
+        "pyqs": [
+          {
+            "pyq1": "https://drive.google.com/file/d/1Om2C4K5xBpzsNw1QCcOqzIlo2dFRJaAj/view?usp=drive_link"
+          },
+          {
+            "pyq2": "https://drive.google.com/file/d/1JDXGiwykbc534VyRKrtq6qzVdMeKjWU6/view?usp=drive_link"
+          },
+          {
+            "pyq3": "https://drive.google.com/file/d/1-ecIheVFjMnO_x5Wx2Nak5kCpqrVbjus/view?usp=drive_link"
+          },
+          {
+            "pyq4": "https://drive.google.com/file/d/1FjEmKSQ0SOoTIBfW15OS7kHyqoXSVq4H/view?usp=drive_link"
+          },
+          {
+            "pyq5": "https://drive.google.com/file/d/1NqBFSIjGGR2a2zykLg1Ex1xmHShYM_NV/view?usp=drive_link"
+          },
+          {
+            "pyq6": "https://drive.google.com/file/d/1FI065WqIDuGnY0JxuaAo5PFebMifYVOM/view?usp=drive_link"
+          }
+        ]
+      },
+      {
+        "ImpQuestions": [
+          {
+            "imp1": "https://drive.google.com/file/d/1jSQPK1XlNdA1cGNnjuth-qR1ZdpWulqT/view?usp=drive_link"
+          }
+        ]
+      },
+      {
+        "syllabus": "https://drive.google.com/file/d/1WB_-iumXGzr8xOgYc00QNsoEo0waxpy8/view?usp=drive_link"
+      }
+    ]
+  },
+  {
+    "CAM": [
+      {
+        "Notes": [
+          {
+            "unit1": [
+              {
+                "pdf1": "https://drive.google.com/file/d/11KA_-EE9PrqYu8MqsKGiMmu1csB6WqOl/view?usp=drive_link"
+              },
+              {
+                "pdf2": "https://drive.google.com/file/d/1DiJvEj_tzoAMLdIbSdBZ_cQsqUJp466F/view?usp=drive_link"
+              }
+            ]
+          },
+          {
+            "unit2": [
+              {
+                "pdf1": "https://drive.google.com/file/d/1NEv8A4o2NFPn_E-tjLEtWVhKI-QZumgF/view?usp=drive_link"
+              }
+            ]
+          },
+          {
+            "unit3": [
+              {
+                "pdf1": "https://drive.google.com/file/d/1Rk_OhQu94SsvhPkf_DQple8vjTlwIqmz/view?usp=drive_link"
+              }
+            ]
+          },
+          {
+            "unit4": [
+              {
+                "pdf1": "https://drive.google.com/file/d/1a-QEi2n5MTscJOgPf1_do9r_ECvwAysZ/view?usp=drive_link"
+              },
+              {
+                "pdf2": "https://drive.google.com/file/d/1srCgNrKTCE_NhajZBfUEy6ZLXLDo4biO/view?usp=drive_link"
+              },
+              {
+                "pdf3": "https://drive.google.com/file/d/1EaWegPGw51Hq-4jopqmD-9YorROrv70e/view?usp=drive_link"
+              },
+              {
+                "pdf4": "https://drive.google.com/file/d/1wA6BMKMZxhqBecmo74GVraNYtpVgSOLx/view?usp=drive_link"
+              },
+              {
+                "pdf5": "https://drive.google.com/file/d/1opd9Wxc-AdsiZOEKrU_MIERrp0Zv1dPj/view?usp=drive_link"
+              },
+              {
+                "pdf6": "https://drive.google.com/file/d/1uwFFdMSIVJSVLxA4jMQpKRTH1EVpIZbk/view?usp=drive_link"
+              }
+            ]
+          },
+          {
+            "unit5": [
+              {
+                "pdf1": "https://drive.google.com/file/d/1zxkGFS9zlPjbh43ypDyQASQ5nZId-PUD/view?usp=drive_link"
+              },
+              {
+                "pdf2": "https://drive.google.com/file/d/1q1YtzCbmNHthmuzNraw__cJXlyGIhj0h/view?usp=drive_link"
+              },
+              {
+                "pdf3": "https://drive.google.com/file/d/1jUyIIjFNJqqTDLry6PMc_Yeg08YF5aHU/view?usp=drive_link"
+              },
+              {
+                "pdf4": "https://drive.google.com/file/d/1I0sENq9BuBjDZ6Qh2aUvRfqk0Grj8cYv/view?usp=drive_link"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "pyqs": [
+          false
+        ]
+      },
+      {
+        "ImpQuestions": [
+          false
+        ]
+      },
+      {
+        "syllabus": "https://drive.google.com/file/d/1S0jr1cibq-lPkuWtQOWdgn8aX4-3ceuT/view?usp=drive_link"
+      }
+    ]
+  }
+]

@@ -1,0 +1,173 @@
+[
+  {
+      "DBMS": [
+      {
+        "unit1": "DBMS: Database Approach v/s Traditional File Approach. Advantages of Database System. Database Users and Administrator. Database System Environment. Application Architectures. Schemas,Instances, Data Independence. Data Models: Hierarchical Data Model, Network Data Model & Relational Data Model,Comparison between Models. Entities and Relationship Model: Entity types, Entity sets,Attributes and Keys, Relationship Types and Sets, Constraints, Design issue, E-R Diagram, Weak Entity Sets."
+      },
+      {
+        "unit2": "Relational Model: Structure of Relational Databases: Relation, Attribute, Domain, Tuples,Degree, Cardinality, Views, Database Relations, Properties of Relations, Attributes, Keys,Attributes of Relation, Domain Constraints, Integrity Constraints. Relational Algebra: Concepts and Operations: Select, Project, Division, Intersection,Union, Division, Rename, Join etc. Relational Calculus: Tuple Relational Calculus, Domain Relational Calculus."
+      },
+      {
+        "unit3": "SQL: Purpose of SQL. Data Definition Language (DDL) Statements. Data Manipulation Language (DML) Statements. Update Statements & Views in SQL. Data Control Language (DCL). Triggers."
+      },
+      {
+        "unit4": "Relational Database Design: Purpose of Normalization. Data Redundancy and Update Anomalies.Functional Dependency. The Process of Normalization. Various Normal Forms: 1NF, 2NF, 3NF, BCNF. Decomposition. Desirable Properties of Decomposition: Dependency Preservation, Lossless Join. Problems with Null Valued & Dangling Tuple. Multivalued Dependencies."
+      },
+      {
+        "unit5":"Transaction Management: Transaction Concept, Transaction State, Concurrent Executions. Serializability: Conflict and View Serializability. Concurrency Control: Lock-Based Protocol. Recovery: Log-Based Recovery."
+      }
+    ]
+  },
+  {
+    "MLO": [
+    {
+      "unit1": "Introduction to ML: Statistical Learning. Supervised vs Unsupervised Learning. Regression vs Classification Problems. Formulation of Design Problems as Mathematical Programming Problems. Linear Regression, Multiple Linear Regression. Logistic Regression. K-Nearest Neighbour Classification."
+    },
+    {
+      "unit2": "Tree Based Methods: Decision Tree Learning: Decision Tree Representation. Appropriate Problems for Decision Tree Learning. Random Forest. Issues in Decision Tree Learning. Naïve Bayes Classifier. Support Vector Machines."
+    },
+    {
+      "unit3": "Introduction to Optimization Algorithms: Optimization Algorithms. Engineering Applications of Optimization Algorithms. Objective Function. Optimization Algorithms for Differentiable and Non-Differentiable Objective Functions: Stationary and Critical Point. Functions of Single and Two Variables. Global Optimum, Single Variable Optimization, Two Variable Optimizations. First Order Algorithms, Local Descent Algorithms, Bracketing Algorithms. Stochastic Algorithms. Population Based Algorithms: Introduction, Genetic Algorithms."
+    },
+    {
+      "unit4": "Artificial Neural Network: Neural Network Representation. Neural Networks as a Paradigm for Parallel Processing. Linear Discrimination. Pairwise Separation. Gradient Descent. Perceptron, Training A Perceptron, Multilayer Perceptron. Back Propagation Algorithm. Dynamically Modifying Network Structure."
+    },
+    {
+      "unit5":"Unsupervised Learning: Clustering, Common Distance Measures. Hierarchical Algorithms – Agglomerative and Divisive. Partitioning Algorithms – K-Means and Derivatives. Design and Analysis of Machine Learning Experiments: Guidelines for Machine Learning Experiments, Factors, Response, and Strategy of Experimentation. Ensemble Methods. Bagging and Boosting. Cross-Validation and Resampling Methods. Measuring Classifier Performance. Assessing a Classification Algorithm's Performance (ROC Curve). Comparing Two Classification Algorithms. Comparing Multiple Algorithms: Analysis of Variance, Comparison over Multiple Datasets."
+    }
+  ]
+},
+  {
+    "OS": [
+    {
+      "unit1": "Basics of Operating System: Generations, Types, Structure. Services. System Calls. System Boot, System Programs. Protection and Security."
+    },
+    {
+      "unit2": "Process Management: Process Concepts. Process States. Process Control Block.Scheduling-Criteria. Scheduling Algorithms and their Evaluation. Threads, Threading Issues."
+    },
+    {
+      "unit3": "Process Synchronization: Background. Critical-Section Problem. Peterson's Solution.Synchronization Hardware. Semaphores. Classic Problems of Synchronization. Monitors. Deadlock: System Model. Deadlock Characterization. Deadlock Prevention. Detection and Avoidance. Recovery from Deadlock."
+    },
+    {
+      "unit4": "Memory Management: Main Memory. Swapping. Contiguous Memory Allocation. Paging, Structure of Page Table. Segmentation. Virtual Memory. Demand Paging. Page Replacement Algorithms. Allocation of Frames. Thrashing."
+    },
+    {
+      "unit5":"Storage Management: Mass-Storage Structure, Overview. Disk Structure, Disk Attachment, Disk Scheduling. File System Interface: The Concept of a File, Access Methods, Directory Structure, File System Structure, Allocation Methods, Free-Space Management."
+    }
+  ]
+},
+{
+  "NWS": [
+  {
+    "unit1": "Security: Principles and Attacks. Basic Number Theory: Prime Number, Congruence’s, Modular Exponentiation. Fundamentals of Cryptography. Steganography. Cryptanalysis. Code Breaking. Block Ciphers and Steam Ciphers. Substitution Ciphers. Transposition Ciphers. Caesar Cipher. Play-Fair Cipher. Hill Cipher. Cipher Modes of Operation."
+  },
+  {
+    "unit2": "Cryptography: Symmetric Key Cryptography. Public Key Cryptography. Principles of Public Key Cryptosystem. Classical Cryptographic Algorithms: DES, RC4, Blowfish, RSA. Distribution of Public Keys and Key Management. Diffie-Hellman Key Exchange."
+  },
+  {
+    "unit3": "Hash Functions: Hash Functions. One Way Hash Function. SHA (Secure Hash Algorithm). Authentication: Requirements, Functions. Kerberos. Message Authentication Codes. Message Digest: MD5, SSH (Secure Shell). Digital Signatures. Digital Certificates."
+  },
+  {
+    "unit4": "IP & Web Security Overview:. SSL (Secure Socket Layer). TLS (Transport Layer Security). SET (Secure Electronic Transaction). IDS (Intrusion detection system): Statistical Anomaly Detection and Rule-Based Intrusion Detection. Penetration Testing. Risk Management. Firewalls: Types, Functionality and Polices."
+  },
+  {
+    "unit5":"Phishing: Attacks and its Types. Buffer Overflow Attack. Cross Site Scripting. SQL Injection Attacks. Session Hijacking. Denial of Service Attacks: Smurf Attack, SYN Flooding, Distributed Denial of Service. Hacker: Hacking and Types of Hackers. Foot Printing. Scanning: Types: Port, Network, Vulnerability). Sniffing in Shared and Switched Networks Sniffing Detection & Prevention. Spoofing."
+  }
+]
+},
+{
+  "DS": [
+  {
+    "unit1": "Introduction to Data Structures: Algorithms & their characteristics. asymptotic notations. arrays and its representations. index to address translation. Link list: Introduction, implementation of linked list, operations. circular link list. doubly linked list. polynomial manipulation using linked list."
+  },
+  {
+    "unit2": "Stacks: Concepts and implementation of stacks. operations on stack. conversion of infix to postfix notation. evaluation of postfix expression. recursion. Queues: Concepts and implementation. operations on queues. dequeue. priority queues. circular queues and application."
+  },
+  {
+    "unit3": "Trees: Types, terminology. binary tree -representations. traversal. conversion of general tree to binary tree. binary search tree. threaded binary tree and height balanced tree."
+  },
+  {
+    "unit4": "Graphs: Background, graph theory terminologies. representation of graphs- sequential & linked representation. path matrix. graph traversals- BFS, DFS. spanning trees. applications of graph."
+  },
+  {
+    "unit5":"Searching & Sorting: Linear search, binary search. bubble sort. selection sort. insertion sort. quick sort. merge sort. radix sort. heap sort. comparison between sorting techniques. hashing and collision resolution techniques."
+  }
+]
+},
+{
+  "CNP": [
+  {
+    "unit1": "Introduction: Computer Network Types. OSI Reference Model & TCP/IP Reference Mode. Circuit Switching, Message Switching & Packet Switching. Frequency Division Multiplexing, Wavelength Division Multiplexing & Time Division Multiplexing. ISDN, SONET. Physical Layer : Data Transmission Modes. Network topologies. Line Coding. Synchronous & Asynchronous Transmission. Transmission Medium- Guided & Unguided. Networking Devices. Performance Criteria."
+  },
+  {
+    "unit2": "Data Link Layer: Introduction, Design Issues, Services, Framing. Error Control. Flow Control. ARQ Strategies. Error Detection and Correction. Parity Bits. Cyclic Redundant Code (CRC). Hamming Codes. MAC Sub Layer- Channel Allocation Problem. Pure ALOHA ,Slotted ALOHA. CSMA. CSMA/CD. IEEE 802.3, IEEE 802.4 and IEEE 802.5. HDLC."
+  },
+  {
+    "unit3": "Network Layer Protocols: Introduction, Design Issues, Services. Routing- Distance Vector Routing. Hierarchical Routing & Link State Routing. Shortest Path Algorithm-Dijkstra's Algorithm & Floyd–Warshall's Algorithm. Routing Protocols. Flooding. Connection Oriented & Connectionless Service. IP Addressing, IPV4, IPV6. Internet Protocol Datagram. Fragmentation. ICMP, IGMP."
+  },
+  {
+    "unit4": "Transport Layer Protocols: Datagram Protocol (UDP) - Process To Process Communication. Port Number, Socket Address. User Datagram. UDP Operation. TCP Services, Process To Process Communication. Stream Delivery Service. Full Duplex Communication. Connection Oriented Service. Reliable Service. TCP Features-Numbering System. Flow Control. Error Control. Congestion Control. TCP Segment. Flow Control-Sliding Window Protocol. Silly Window Syndrome Error Control-Checksum. Acknowledgement, Retransmission. Congestion Control."
+  },
+  {
+    "unit5":"Application Layer Protocols: Introduction, Design Issues. Presentation Layer-Translation. Encryption- Substitutions and Transposition Ciphers. Compression- Lossy and Lossless. Session Layer – Dialog Control, Synchronization. Application Layer-Remote Login, File Transfer & Electronic Mail. Domain Name System (DNS), Telnet,FTP, TFTP, Email Protocol: SMTP, POP, IMAP."
+  }
+]
+},
+{
+  "CC": [
+  {
+    "unit1": "Cloud Architecture and Model: Technologies for Network-Based System. System Models for Distributed and Cloud Computing. NIST Cloud Computing Reference Architecture. Cloud Models:- Characteristics. Cloud Services. Cloud models (IaaS, PaaS, SaaS). Public vs Private Cloud. Cloud Solutions. Cloud ecosystem. Service management. Computing on demand."
+  },
+  {
+    "unit2": "Virtualization: Basics of Virtualization. Types of Virtualization. Implementation Levels of Virtualization. Virtualization Structures. Tools and Mechanisms. Virtualization of CPU, Memory, I/O Devices. Virtual Clusters and Resource management. Virtualization for Data-center Automation."
+  },
+  {
+    "unit3": "Cloud Infrastructure: Architectural Design of Compute and Storage Clouds. Layered Cloud Architecture Development. Design Challenges. Inter Cloud Resource Management. Resource Provisioning and Platform Deployment. Global Exchange of Cloud Resources."
+  },
+  {
+    "unit4": "Programming Model: Parallel and Distributed Programming Paradigms- MapReduce, Twister and Iterative MapReduce, Hadoop Library from Apache, Google App Engine (GAE), Amazon Web Service (AWS), Smart Cloud, Public Clouds and Service Offerings, Microsoft Windows Azure."
+  },
+  {
+    "unit5":"Security in the Cloud: Security Overview. Cloud Security Challenges and Risks. Software-as-a-Service Security. Security Governance. Risk Management. Security Monitoring. Security Architecture Design. Data Security. Application Security. Virtual Machine Security. Identity Management and Access Control."
+  }
+]
+},
+{
+  "DAA": [
+  {
+    "unit1": "Introduction to Computational Model: Algorithms and its Importance. Recurrences and Asymptotic Notations. Mathematical Analysis of Non-Recursive and Recursive Algorithm. Review of Sorting & Searching Algorithms. Basic Tree and Graph Concepts: B-Trees and Traversal Techniques. Topological sort."
+  },
+  {
+    "unit2": "Divide and Conquer Method: Introduction and its Examples such as Finding the Maximum and Minimum. Binary Search. Merge Sort. Quick Sort. Strassen’s Matrix Multiplication. Additional Real World Problems on Divide and Conquer."
+  },
+  {
+    "unit3": "Greedy Method: Introduction, Characteristics. Examples of Greedy Methods such as Single-Source Shortest Paths. Minimum Cost Spanning Trees : Prims’s and Kruskal’s Algorithm. Knapsack Problem. Dijkstra’s Single Source Shortest Path Algorithm. Optimal Storage on Tapes."
+  },
+  {
+    "unit4": "Dynamic Programming: Introduction. The Principle of Optimality. Examples of DP Methods such as – 0/1 Knapsack. Traveling salesman problem. Floyd’s All Pairs Shortest Path. Longest Common Subsequence and. Reliability Design. Matrix Chain Multiplication."
+  },
+  {
+    "unit5":"Backtracking: Concept and its Examples like 4-Queen’s Problem. Knapsack problem Hamiltonian Circuit Problem. Graph Coloring Problem etc. Branch & Bound: Introduction and its Examples like - Traveling Salesperson Problem etc. NP- Completeness: Introduction. Class P and NP. Polynomial Reduction. NP-Hard and NP- Complete Problems."
+  }
+]
+},
+{
+  "CAM": [
+  {
+    "unit1": "Introduction: CPU structure and functions. processor organization. ALU, data paths, internal registers, status flags. System bus structure: Data, address and control buses. Processor control. micro-operations. instruction fetch. hardwired control. micro programmed control. microinstruction sequencing and execution."
+  },
+  {
+    "unit2": "Instruction set principles. machine instructions. types of operations and operands. encoding an instruction set. assembly language programming. addressing modes and formats."
+  },
+  {
+    "unit3": "Input-Output Organization: I/O organization. I/O techniques: interrupts, polling. DMA; Synchronous vs. asynchronous I/O. Memory Organization: Memory system. internal and external memory. memory hierarchy. cache memory and its working. virtual memory concept."
+  },
+  {
+    "unit4": "Microprocessors: 8085 microprocessor architecture. Instruction set. instruction types and formats. Instruction execution. instruction cycles. different types of machine cycles and timing diagram. 16-bit microprocessors. 8086 architecture. registers. memory segmentation and addressing."
+  },
+  {
+    "unit5":"Basic peripherals and interfacing: 8255. interfacing with LED’s. ADC, DAC. stepper motors. I/O & Memory Interfacing, 8254, 8259, 8251."
+  }
+]
+}
+]

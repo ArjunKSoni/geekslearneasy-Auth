@@ -12,6 +12,7 @@ app.use(express.json())
 
 app.use("/api/notes", require("./routes/mynotes"))
 app.use('/api/auth', require('./routes/auth'))
+app.use('/api/subject', require('./routes/subject'))
 // app.use('/api/store',require('./routes/store'))
 app.get("/", (req, res) => {
     res.send("api for geeks learn easy is live")
