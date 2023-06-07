@@ -5,7 +5,6 @@ const NotesSchema = new mongoos.Schema({
     },
     desc: {
         type: String,
-        required: true
     },
     time: {
         type: String,
