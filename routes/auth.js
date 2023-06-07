@@ -9,9 +9,9 @@ router.post("/register", async (req, res) => {
     email: req.body.email,
     password: req.body.password,
     mobileNo: req.body.mobileNo,
-    year:req.body.year,
-    branch:req.body.branch,
-    Linkedin:req.body.Linkedin,
+    year: req.body.year,
+    branch: req.body.branch,
+    Linkedin: req.body.Linkedin,
     github: req.body.github,
     clg: req.body.clg
   })

@@ -10,6 +10,7 @@ require("./connect_mongo")
 app.use(cors())
 app.use(express.json())
 
+app.use("/api/notes", require("./routes/mynotes"))
 app.use('/api/auth', require('./routes/auth'))
 // app.use('/api/store',require('./routes/store'))
 app.get("/", (req, res) => {
