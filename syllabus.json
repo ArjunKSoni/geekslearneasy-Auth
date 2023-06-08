@@ -19,7 +19,7 @@
     ]
   },
   {
-    "Machine Learning and Optimization": [
+    "Machine Learning": [
     {
       "unit1": "Introduction to ML: Statistical Learning. Supervised vs Unsupervised Learning. Regression vs Classification Problems. Formulation of Design Problems as Mathematical Programming Problems. Linear Regression, Multiple Linear Regression. Logistic Regression. K-Nearest Neighbour Classification."
     },
@@ -57,7 +57,7 @@
   ]
 },
 {
-  "Network and Web Security": [
+  "Network-Web Security": [
   {
     "unit1": "Security: Principles and Attacks. Basic Number Theory: Prime Number, Congruence’s, Modular Exponentiation. Fundamentals of Cryptography. Steganography. Cryptanalysis. Code Breaking. Block Ciphers and Steam Ciphers. Substitution Ciphers. Transposition Ciphers. Caesar Cipher. Play-Fair Cipher. Hill Cipher. Cipher Modes of Operation."
   },
@@ -133,7 +133,7 @@
 ]
 },
 {
-  "Design and Analysis of Algorithm": [
+  "DAA": [
   {
     "unit1": "Introduction to Computational Model: Algorithms and its Importance. Recurrences and Asymptotic Notations. Mathematical Analysis of Non-Recursive and Recursive Algorithm. Review of Sorting & Searching Algorithms. Basic Tree and Graph Concepts: B-Trees and Traversal Techniques. Topological sort."
   },
@@ -209,7 +209,7 @@
 ]
 },
 {
-  "Intro to Probability and Statistics": [
+  "Probability and Statistics": [
   {
     "unit1": "Basic Probability- Probability spaces. conditional probability. independence. Discrete random variables. Independent random variables. the multinomial distribution. Poisson approximation to the binomial distribution. infinite sequences of Bernoulli trials. sums of independent random variables. Expectation of Discrete Random Variables. Moments. Variance of a sum. Correlation coefficient. Chebyshev's Inequality."
   },
