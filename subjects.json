@@ -46,7 +46,7 @@
     ]
   },
   {
-    "Machine Learning and Optimization": [
+    "Machine Learning": [
       {
         "Notes": [
           {
@@ -266,7 +266,7 @@
     ]
   },
   {
-    "Network and Web Security": [
+    "Network-Web Security": [
       {
         "Notes": [
           {
@@ -622,7 +622,7 @@
     ]
   },
   {
-    "Design and Analysis of Algorithm": [
+    "DAA": [
       {
         "Notes": [
           {
@@ -951,19 +951,12 @@
         "ImpQuestions": [false]
       },
       {
-        "syllabus": [
-          {
-            "pdf1": "https://drive.google.com/file/d/1uztdBvD0mRA0aUgY0ajUnoWdZPr5FIxC/preview"
-          },
-          {
-            "pdf2": "https://drive.google.com/file/d/1VKCqyxjY41OFLgcGL7XlgMi84p9OA5LY/preview"
-          }
-        ]
+        "syllabus": "https://drive.google.com/file/d/1uztdBvD0mRA0aUgY0ajUnoWdZPr5FIxC/preview"
       }
     ]
   },
   {
-    "Intro to Probability and Statistics": [
+    "Probability and Statistics": [
       {
         "Notes": [
           {
@@ -1023,11 +1016,7 @@
         "ImpQuestions": [false]
       },
       {
-        "syllabus": [
-          {
-            "pdf1": "https://drive.google.com/file/d/1YtudmkOw4FSNmVtBDY1mDg30MeOrg4oe/preview"
-          }
-        ]
+        "syllabus": "https://drive.google.com/file/d/1YtudmkOw4FSNmVtBDY1mDg30MeOrg4oe/preview"
       }
     ]
   },
@@ -1080,11 +1069,7 @@
         "ImpQuestions": [false]
       },
       {
-        "syllabus": [
-          {
-            "pdf1": "https://drive.google.com/file/d/1KRlK4xGd6NyM7ZoYLjTFiZYO05Ai9Vh2/preview"
-          }
-        ]
+        "syllabus": "https://drive.google.com/file/d/1KRlK4xGd6NyM7ZoYLjTFiZYO05Ai9Vh2/preview"
       }
     ]
   },
@@ -1132,11 +1117,7 @@
         "ImpQuestions": [false]
       },
       {
-        "syllabus": [
-          {
-            "pdf1": "https://drive.google.com/file/d/1qenqA3fx8SAloH2M6ZJOoifn4wP_4YUU/preview"
-          }
-        ]
+        "syllabus": "https://drive.google.com/file/d/1qenqA3fx8SAloH2M6ZJOoifn4wP_4YUU/preview"
       }
     ]
   },
@@ -1188,11 +1169,7 @@
         "ImpQuestions": [false]
       },
       {
-        "syllabus": [
-          {
-            "pdf1": "https://drive.google.com/file/d/1iiwLqGvrWnPVCI5YJxrpiI7Hzzo_Na3-/preview"
-          }
-        ]
+        "syllabus": "https://drive.google.com/file/d/1iiwLqGvrWnPVCI5YJxrpiI7Hzzo_Na3-/preview"
       }
     ]
   }
