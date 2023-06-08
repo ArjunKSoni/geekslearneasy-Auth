@@ -19,7 +19,7 @@
     ]
   },
   {
-    "MLO": [
+    "Machine Learning and Optimization": [
     {
       "unit1": "Introduction to ML: Statistical Learning. Supervised vs Unsupervised Learning. Regression vs Classification Problems. Formulation of Design Problems as Mathematical Programming Problems. Linear Regression, Multiple Linear Regression. Logistic Regression. K-Nearest Neighbour Classification."
     },
@@ -38,7 +38,7 @@
   ]
 },
   {
-    "OS": [
+    "Operating System": [
     {
       "unit1": "Basics of Operating System: Generations, Types, Structure. Services. System Calls. System Boot, System Programs. Protection and Security."
     },
@@ -57,7 +57,7 @@
   ]
 },
 {
-  "NWS": [
+  "Network and Web Security": [
   {
     "unit1": "Security: Principles and Attacks. Basic Number Theory: Prime Number, Congruence’s, Modular Exponentiation. Fundamentals of Cryptography. Steganography. Cryptanalysis. Code Breaking. Block Ciphers and Steam Ciphers. Substitution Ciphers. Transposition Ciphers. Caesar Cipher. Play-Fair Cipher. Hill Cipher. Cipher Modes of Operation."
   },
@@ -76,7 +76,7 @@
 ]
 },
 {
-  "DS": [
+  "Data Structures": [
   {
     "unit1": "Introduction to Data Structures: Algorithms & their characteristics. asymptotic notations. arrays and its representations. index to address translation. Link list: Introduction, implementation of linked list, operations. circular link list. doubly linked list. polynomial manipulation using linked list."
   },
@@ -114,7 +114,7 @@
 ]
 },
 {
-  "CC": [
+  "Cloud Computing": [
   {
     "unit1": "Cloud Architecture and Model: Technologies for Network-Based System. System Models for Distributed and Cloud Computing. NIST Cloud Computing Reference Architecture. Cloud Models:- Characteristics. Cloud Services. Cloud models (IaaS, PaaS, SaaS). Public vs Private Cloud. Cloud Solutions. Cloud ecosystem. Service management. Computing on demand."
   },
@@ -133,7 +133,7 @@
 ]
 },
 {
-  "DAA": [
+  "Design and Analysis of Algorithm": [
   {
     "unit1": "Introduction to Computational Model: Algorithms and its Importance. Recurrences and Asymptotic Notations. Mathematical Analysis of Non-Recursive and Recursive Algorithm. Review of Sorting & Searching Algorithms. Basic Tree and Graph Concepts: B-Trees and Traversal Techniques. Topological sort."
   },
@@ -152,7 +152,7 @@
 ]
 },
 {
-  "CAM": [
+  "Computer Architecture ": [
   {
     "unit1": "Introduction: CPU structure and functions. processor organization. ALU, data paths, internal registers, status flags. System bus structure: Data, address and control buses. Processor control. micro-operations. instruction fetch. hardwired control. micro programmed control. microinstruction sequencing and execution."
   },
@@ -167,6 +167,123 @@
   },
   {
     "unit5":"Basic peripherals and interfacing: 8255. interfacing with LED’s. ADC, DAC. stepper motors. I/O & Memory Interfacing, 8254, 8259, 8251."
+  }
+]
+},
+{
+  "Engineering Chemistry": [
+  {
+    "unit1": "WATER - ANALYSIS, TREATMENTS AND INDUSTRIAL APPLICATIONS. Sources. Impurities. Hardness & its units. Determination of hardness by EDTA method. Alkalinity & its determination. Boiler troubles ( Sludge & Scale, Priming & Foaming, Boiler Corrosion, Caustic Embrittlement). Softening of water by Lime-Soda, Zeolite and Ion Exchange methods. Internal treatment methods of Boilers. Numerical problems based on softening methods. Hardness. Alkalinity."
+  },
+  {
+    "unit2": "FUELS & COMBUSTION: Fossil fuels & classification. Calorific value & its types. Determination of calorific value by Bomb calorimeter Proximate and Ultimate analysis of coal and their significance. calculation of calorific value by Dulong’s formula. Knocking. relationship between' knocking & structure of hydrocarbon. Octane number. Cetane number. combustion and it related numerical problems."
+  },
+  {
+    "unit3": "LUBRICANTS: Introduction. Mechanism of lubrication. Classification of lubricants. significance & determination of Viscosity. Viscosity Index. Flash & Fire Points. Cloud & Pour Points. Carbon Residue. Aniline Point. Acid Number. Saponification Number. CEMENT: Manufacture of Portland Cement by wet process. Setting and hardening of cement. Preparation. properties and uses of Plaster of Paris."
+  },
+  {
+    "unit4": "POLYMERS & POLYMERISATION: Introduction, types of polymerisation, classification of polymers. Natural & Synthetic Rubbers. Vulcanization of Rubber. Preparation. Properties & uses of the following polymers- Polythene, PVC, PMMA, Teflon, Poly acrylonitrile, PVA, Nylon 6, Nylon 6:6, Phenol formaldehyde, Urea – Formaldehyde, Buna N, Buna S."
+  },
+  {
+    "unit5":"INSTRUMENTAL TECHNIQUES IN CHEMICAL ANALYSIS : Lambert's and Beer's Law and its applications. Introduction. Principle. Instrumentation and applications of IR & UV spectroscopy. Gas Chromatography& its applications. REFRACTORIES: Introduction, classification and properties of refractories ."
+  }
+]
+},
+{
+  "Introduction to AI": [
+  {
+    "unit1": "Artificial Intelligence: Introduction. History of AI. AI Problem. Approaches, Goals, Purpose, Scope. Terminology, and Application Areas. Industrialization and its Impact. Cyber-Physical System. Evolution of Industry. Data Availability. Relation between Artificial Intelligence. Machine Learning. Deep Learning and other Related Fields."
+  },
+  {
+    "unit2": "Conventional Vs Machine Learning Programming. Data/Information/Knowledge. Type of Data: Structure, Non Structure, Semi Structure. Images, Video, Temporal, Real Time, etc. Data Types: Categorical/Nominal/Ordinal, etc. Data Types Conversion. Model. Algorithm. Model Development Life Cycle. Learning. Training, Testing, Validation. Importance of Data. AI Tools for Implementation."
+  },
+  {
+    "unit3": "Introduction to Machine Learning: Basic Concepts of Machine Learning. Types of Learning: Supervised, Unsupervised and Reinforcement Learning. Categorical and Continuous Data. Skewness and Correlation. Regression Analysis Vs Classification. Introduction to Optimization: Evolutionary Algorithms. Genetic Algorithms: Basic Concepts. Optimization. Need for Optimization. Membership Functions."
+  },
+  {
+    "unit4": "Introduction to Intelligent Agent. Characteristics and functionalities. Introduction to Expert System. Roles of Expert Systems. Logic and Reasoning in AI: Introduction to Logic. Basic of Boolean Algebra. Logic Gates. Propositional and Predicate Logic: Interpretation of Formulas. Syntax and Semantics of an Expression. Inference Rules."
+  },
+  {
+    "unit5":"Artificial Intelligence in Real World:. Speech Processing. Natural Language Processing. Planning. Engineering and Expert Systems. Fuzzy Systems. Models of Brain and Evolution. AI in Healthcare. Defence and Agriculture. Cyber Security. Agriculture. E-Commerce. Gaming. Finance. Smart Devices."
+  }
+]
+},
+{
+  "Intro to Probability and Statistics": [
+  {
+    "unit1": "Basic Probability- Probability spaces. conditional probability. independence. Discrete random variables. Independent random variables. the multinomial distribution. Poisson approximation to the binomial distribution. infinite sequences of Bernoulli trials. sums of independent random variables. Expectation of Discrete Random Variables. Moments. Variance of a sum. Correlation coefficient. Chebyshev's Inequality."
+  },
+  {
+    "unit2": "Continuous Probability Distributions- Continuous random varibales and their properties. distribution functions and densities. normal. exponential and gamma densities."
+  },
+  {
+    "unit3": "Bivariate Distributions- Bivariate distributions and their properties. distribution of sums and quotients. conditional densities. Bayes' rule."
+  },
+  {
+    "unit4": "Unit 4: Basic Statistics- Measures of Central tendency: Moments. Skewness and Kurtosis. Probability distributions: Binomial, Poisson and Normal. Evaluation of statistical parameters for these three distributions. Correlation and regression – Rank correlation."
+  },
+  {
+    "unit5":"Applied Statistics- Curve fitting by the method of least squares. fitting of straight lines. second degree parabolas and more general curves. Test of significance: Large sample test for single proportion. difference of proportions. single mean, difference of means. difference of standard deviations."
+  },
+  {
+    "unit6":"Small samples- Test for single mean. difference of means and correlation coefficients. test for ratio of variances- Chi-square test for goodness of fit and independence of attributes."
+  }
+]
+},
+{
+  "Soft Computing": [
+  {
+    "unit1": "Introduction to Soft Computing: Soft Computing v/s Hard Computing. Basic models of Artificial Neural Networks. Terminologies of ANNs McCulloch-Pitts Neurons. Linear Separability. Hebb Network. Supervised Learning Networks: Introduction. Perceptron Networks. Back Propagation Networks. Radial Basis Function Networks. Hopefield networks."
+  },
+  {
+    "unit2": "Fuzzy Set Theory: Fuzzy Sets. Fuzzy Membership Functions. Operations on Fuzzy Sets. Fuzzy Relations, Fuzzy rules, Fuzzy Reasoning. Defuzzification: Lembda-Cuts for Fuzzy sets (Alpha-Cuts). Lembda-Cuts for Fuzzy Relations. Fuzzy Inference System: Introduction. Mamdani Fuzzy Model. Takagi-Sugeno Fuzzy Model."
+  },
+  {
+    "unit3": "Evolutionary Algorithm: Traditional optimization and Search Techniques. Basic Terminologies in GA. Operators in Genetic Algorithm. Stopping Condition for Genetic Algorithm Flow. Classification of Genetic Algorithm. Comparison with Evolutionary algorithm. Application of Genetic algorithm."
+  },
+  {
+    "unit4": "Introduction to Nature-Inspired Optimization Algorithms: Particle Swarm Optimization (PSO) Algorithm. Differential Evolution (DE) Algorithm. Artificial Bee Colony (ABC) Algorithm. Ant Colony Optimization (ACO) Algorithm. Cuckoo Search (CS). Firefly Algorithm (FA). Immune Algorithm (IA). Grey Wolf Optimization (GWO). Spider Monkey Optimization."
+  },
+  {
+    "unit5":"Hybrid Soft Computing Techniques: Introduction. Neuro-fuzzy Hybrid system. Adaptive Neuro fuzzy inference system(ANFIS). Genetic Neuro Hybrid system. Application of Soft Computing Techniques."
+  }
+]
+},
+{
+  "Software Engineering": [
+  {
+    "unit1": "Introduction to Software Engineering: Definition. Software Engineering-Layered Technolog. Software Characteristics and Components. Software Model: Software Development of Life Cycle Model (SDLC). The Waterfall Model. Iterative Waterfall Model. Prototyping Model. Spiral Model. RAD Model. Selection Criteria of Model: Characteristics of Requirements. Status of Development Team. Users Participation. Type of Project and Associated Risk."
+  },
+  {
+    "unit2": "Requirement Engineering: Definition. Requirement Engineering Activity. Types of Requirement- Functional and Non-functional Requirements. User and System Requirements. Requirement Elicitation Methods. Requirement Analysis Methods. Requirement Documentation (SRS). Requirement Validation. Requirement Management."
+  },
+  {
+    "unit3": "Design Concept. Principle and Methods: Design Fundamentals. Design Principles. Effective Modular Design. Design Representations. Architectural Design. Procedural Design. Data Directed design. Real Time Design. Object Oriented Design. Coupling and Cohesion."
+  },
+  {
+    "unit4": "Software Metrics. Project Management and Estimation. Metrics in Process and Project Domains. Software Measurement. Software Quality Metrics. Project Management- Basics-People. Product. Process. Project. Estimation- Software Project Estimation. Decomposition Techniques- Function Point Estimation. Line of Code (LOC) Based estimation. Empirical Estimation. COCOMO Model. Project Scheduling Techniques."
+  },
+  {
+    "unit5":"Software Testing: Definitions. Software Testing Life Cycle (STLC). Test Case Design. Strategic Approach to Software Testing- Verification & Validation. Strategic Issues. Criteria for Completion of Testing. Unit Testing. Integration Testing. Validation Testing. System Testing. Black Box Testing Techniques. White Box Testing Techniques. Acceptance Testing."
+  }
+]
+},
+{
+  "Technical Communication": [
+  {
+    "unit1": "Technical Communication Skills: Understanding the process and scope of Communication.Relevance & Importance of Communication in a Globalized world. Forms of Communication. Role of Unity. Brevity and Clarity in various forms of communication."
+  },
+  {
+    "unit2": "Types of Communication: Verbal & Non-verbal Communication. Classification of NVC. Barriers to Communication. Communicating Globally. Culture and Communication. Soft Skills: Interpersonal Communication. Listening. Persuasion. Negotiation. Communicating bad news/messages. communicating in a global world."
+  },
+  {
+    "unit3": "Writing Skills: Traits of Technical Writing. Principles of Business Writing. Style of Writing. Writing Memos. Letters. Reports. Types of technical reports. Characteristics.format and structure of technical reports. Writing Research Papers. Speaking Skills: Audience-awareness. Voice. Vocabulary and Paralanguage. Group Discussion. Combating Nervousness. Speaking to one and to one thousand. Mock Presentations."
+  },
+  {
+    "unit4": "Job Interviews: Preparing for interviews. assessing yourself. Drafting Effective Resume. Dress. decorum and Delivery techniques. Techniques of handling interviews. Use of Non- verbals during Interviews. Handling turbulence during interviews. Group Discussion: Objective, Method, Focus, Content, Style and Argumentation skills. Professional Presentations: Individual Presentations (Audience Awareness, Body Language, Delivery and Content of Presentation)."
+  },
+  {
+    "unit5":"Grammar & Linguistic ability: Basics of grammar. common error in writing and speaking. Study of advanced grammar. Vocabulary. Pronunciation Etiquette. Syllables, Vowel sounds, Consonant sounds. Tone: Rising tone, Falling Tone. Flow in Speaking. Speaking with a purpose. Speech & personality. Professional Personality Attributes."
   }
 ]
 }
