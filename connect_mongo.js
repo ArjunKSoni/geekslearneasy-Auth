@@ -1,5 +1,5 @@
 const mongoose=require('mongoose')
-mongoose.connect('mongodb+srv://aksoni0520:dXTfwa8DfQzjbsew@auth.wabax4u.mongodb.net/?retryWrites=true&w=majority',{
+mongoose.connect('mongodb+srv://GeeksLearnEasy:GmIvDVAfuFlOPWuk@cluster0.yvyxpru.mongodb.net/?retryWrites=true&w=majority', {
     useNewUrlParser:true,
     useUnifiedTopology:true
 }).then(()=>{
@@ -8,3 +8,5 @@ mongoose.connect('mongodb+srv://aksoni0520:dXTfwa8DfQzjbsew@auth.wabax4u.mongodb
     console.log(`error is ${e}`)
 })
 
+
+// GmIvDVAfuFlOPWuk
