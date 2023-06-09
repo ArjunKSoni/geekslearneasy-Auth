@@ -162,7 +162,11 @@
         ]
       },
       {
-        "pyqs": [false]
+        "pyqs": [
+          {
+            "pyq1": "https://drive.google.com/file/d/1y-PGMS9OjceKOjoRBYGdx9e9aOHe6y-O/preview"
+          }
+        ]
       },
       {
         "ImpQuestions": [
@@ -441,6 +445,12 @@
         "pyqs": [
           {
             "pyq1": "https://drive.google.com/file/d/1xAv6Pgt1ctXwK1sLveW11Ty4s7Fpme4N/preview"
+          },
+          {
+            "pyq2": "https://drive.google.com/file/d/1PQTZ9_0r0uUw59jvOJGiabk2XysxKkeS/preview"
+          },
+          {
+            "pyq3": "https://drive.google.com/file/d/1Vy0hUI8tS7wbN587Zeu5mFycxaa0_Zg7/preview"
           }
         ]
       },
@@ -611,7 +621,11 @@
         ]
       },
       {
-        "pyqs": [false]
+        "pyqs": [
+          {
+            "pyq1": "https://drive.google.com/file/d/19SFy_8qUdVq_zOqC4qtJe5EG0y8AB4dG/preview"
+          }
+        ]
       },
       {
         "ImpQuestions": [false]
@@ -818,7 +832,26 @@
         ]
       },
       {
-        "pyqs": [false]
+        "pyqs": [
+          {
+            "pyq1": "https://drive.google.com/file/d/1Tw8K9jiOkcuakVAdnzbgMinjgLBHQ8gJ/preview"
+          },
+          {
+            "pyq2": "https://drive.google.com/file/d/1FcxDJCm2SxkyJSnYEc58B1p83mEZbkmc/preview"
+          },
+          {
+            "pyq3": "https://drive.google.com/file/d/1vHJH_a5r6FbADpViKBVEwZQor0frZPdZ/preview"
+          },
+          {
+            "pyq4": "https://drive.google.com/file/d/1MwI-xq8_IS0OlIhD8uLrjXAycqUIJx10/preview"
+          },
+          {
+            "pyq5": "https://drive.google.com/file/d/1cDiYigtc3mJPHNvOXnB9hOY2VYiXJMFw/preview"
+          },
+          {
+            "pyq6": "https://drive.google.com/file/d/1MkQhaaOWB_0yVS2MwwuoFej040N-1VSs/preview"
+          }
+        ]
       },
       {
         "ImpQuestions": [false]
@@ -1031,7 +1064,11 @@
         ]
       },
       {
-        "pyqs": [false]
+        "pyqs": [
+          {
+            "pyq1": "https://drive.google.com/file/d/1DbuTKNpon9bL7VumPoFZ8P19PP_ZViXw/preview"
+          }
+        ]
       },
       {
         "ImpQuestions": [false]
@@ -1084,7 +1121,11 @@
         ]
       },
       {
-        "pyqs": [false]
+        "pyqs": [
+          {
+            "pyq1": "https://drive.google.com/file/d/1HAgJIYmcfMX7_6Etu9tvxqiKDi1beRT-/preview"
+          }
+        ]
       },
       {
         "ImpQuestions": [false]
@@ -1132,7 +1173,11 @@
         ]
       },
       {
-        "pyqs": [false]
+        "pyqs": [
+          {
+            "pyq1": "https://drive.google.com/file/d/1QwCCOene47_km3DwDcyL-73oNFzhMpL2/preview"
+          }
+        ]
       },
       {
         "ImpQuestions": [false]
