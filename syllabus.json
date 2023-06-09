@@ -152,7 +152,7 @@
 ]
 },
 {
-  "Computer Architecture ": [
+  "CAM/CSO": [
   {
     "unit1": "Introduction: CPU structure and functions. processor organization. ALU, data paths, internal registers, status flags. System bus structure: Data, address and control buses. Processor control. micro-operations. instruction fetch. hardwired control. micro programmed control. microinstruction sequencing and execution."
   },
@@ -284,6 +284,44 @@
   },
   {
     "unit5":"Grammar & Linguistic ability: Basics of grammar. common error in writing and speaking. Study of advanced grammar. Vocabulary. Pronunciation Etiquette. Syllables, Vowel sounds, Consonant sounds. Tone: Rising tone, Falling Tone. Flow in Speaking. Speaking with a purpose. Speech & personality. Professional Personality Attributes."
+  }
+]
+},
+{
+  "Computer Graphics": [
+  {
+    "unit1": "Introduction to Computer Graphics: Interactive Computer Graphics. Application of Computer Graphics. Random and Raster Scan Displays. Storage Tube Graphics Display. Calligraphic Refresh Graphics Display. Flat Panel Display. Refreshing. Flickering. Interlacing. Resolution. Bit Depth. Aspect Ratio etc."
+  },
+  {
+    "unit2": "Scan Conversion Technique: Image representation. Line drawing: DDA, Bresenham’s Algorithm. Circle Drawing: General Method, Mid-Point, DDA. Bresenham’s Circle Generation Algorithm, And Ellipse Generation Algorithm. Curves: Parametric Function, Bezier Method, B-Spline Method."
+  },
+  {
+    "unit3": "2D & 3D Transformations: Translation, Rotation, Scaling, Reflection, Shearing. Inverse Transformation, Composite Transformation. World Coordinate System. Viewing Transformation. Representation of 3D object on Scree. Parallel and Perspective Projections."
+  },
+  {
+    "unit4": "Clipping: Point clipping. Line Clipping. Simple Visibility Line Clipping Algorithm. Cohen Sutherland Line Clipping Algorithm etc., Polygon Clipping. Convex and Concave Polygon. Sutherland Hodgeman Polygon Clipping Algorithm etc., Area Filling. Hidden Surface Elimination: Z- Buffer algorithm and Painter’s Algorithm."
+  },
+  {
+    "unit5":"Basic Illumination Models: Diffuse Reflection. Specular Reflection. Phong Shading. Gouraud Shading. Color Models like RGB, YIQ, CMY, HSV etc. Introduction to Digital Image Processing (DIP). Fundamental Steps and Components of DIP."
+  }
+]
+},
+{
+  "Sensor Technology": [
+  {
+    "unit1": "Fundamentals and characteristics of Sensors: Sensor, actuator and transducer. Signals and Systems. Sensor Classification: passive and active Sensor, absolute and relative Sensor. Units of Measurements. Sensor Characteristics: Transfer Function. Calibration. Nonlinearity. Saturation. Repeatability. Dead Band. Resolution. Selection Criterion."
+  },
+  {
+    "unit2": "Principle of Sensing & Transduction: Mechanical and Electromechanical sensor. Resistive (potentiometric type). Strain gauge. Inductive sensor: common types- Reluctance change type, LVDT, Capacitive Sensors, Thermal Sensors, Magnetic Sensors, Proximity Sensor, Piezoelectric Effect, Air Quality Sensor, Infrared Sensor, Ambient Light Sensor."
+  },
+  {
+    "unit3": "Interfacing of Electronic Circuits: Input Characteristics of Interface Circuits. Amplifiers. Excitation Circuits. Data Transmission: Sampling Theorem, Shannon Theorem. Analog to Digital Converters. Classification of A/D converters. Direct Digitization and Processing. Bridge Circuits."
+  },
+  {
+    "unit4": "Smart Sensor Technologies: Architecture of Smart Sensor: Features, Design of Sensor And Smart Sensor, Intelligent instrumentation, Standard of Smart Sensor Network, Introduction to wireless networks, Sensor data acquisition, Communication for smart sensors."
+  },
+  {
+    "unit5":"Application of Sensors in different areas: Occupancy and Motion Detectors. Position. Displacement and Level. Velocity and Acceleration. Force, Strain. Pressure Sensors Neurosensors. Biosensors. MEMS Sensors. Sensors for Mechanical Shock. Machine Vibration Monitoring Sensors. Humidity Sensors. Electromagnetic Sensor."
   }
 ]
 }

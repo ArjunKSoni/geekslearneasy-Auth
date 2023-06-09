@@ -729,7 +729,7 @@
     ]
   },
   {
-    "Computer Architecture ": [
+    "CAM/CSO": [
       {
         "Notes": [
           {
@@ -739,6 +739,15 @@
               },
               {
                 "pdf2": "https://drive.google.com/file/d/1DiJvEj_tzoAMLdIbSdBZ_cQsqUJp466F/preview"
+              },
+              {
+                "pdf3": "https://drive.google.com/file/d/1A4VkS9yprzK2T57M_tHtot8KQ_WeX3BI/preview"
+              },
+              {
+                "pdf2": "https://docs.google.com/presentation/d/11PqXFSZ2WHdQ331zxe168JiWjRAqxHxu/preview?rm=minimal"
+              },
+              {
+                "pdf3": "https://drive.google.com/file/d/1nhnZqqhKhdf6vL_wtKYRrWV2uYodc9jQ/preview"
               }
             ]
           },
@@ -746,6 +755,9 @@
             "unit2": [
               {
                 "pdf1": "https://drive.google.com/file/d/1NEv8A4o2NFPn_E-tjLEtWVhKI-QZumgF/preview"
+              },
+              {
+                "pdf2": "https://drive.google.com/file/d/1KD8235GPGP6QK_5J7o9CBjlP8Kl7-CNe/preview"
               }
             ]
           },
@@ -753,44 +765,53 @@
             "unit3": [
               {
                 "pdf1": "https://drive.google.com/file/d/1Rk_OhQu94SsvhPkf_DQple8vjTlwIqmz/preview"
+              },
+              {
+                "pdf2": "https://drive.google.com/file/d/1wSGpH6Y0IEexeuCPoA0JE9MCcybFM6yS/preview"
               }
             ]
           },
           {
             "unit4": [
               {
-                "pdf1": "https://drive.google.com/file/d/1a-QEi2n5MTscJOgPf1_do9r_ECvwAysZ/preview"
+                "pdf1": "https://drive.google.com/file/d/1xI7iqdjIZmI5kYT9GPldBRDuLRSgRkM4/preview"
               },
               {
-                "pdf2": "https://drive.google.com/file/d/1srCgNrKTCE_NhajZBfUEy6ZLXLDo4biO/preview"
+                "pdf2": "https://drive.google.com/file/d/1a-QEi2n5MTscJOgPf1_do9r_ECvwAysZ/preview"
               },
               {
-                "pdf3": "https://drive.google.com/file/d/1EaWegPGw51Hq-4jopqmD-9YorROrv70e/preview"
+                "pdf3": "https://drive.google.com/file/d/1srCgNrKTCE_NhajZBfUEy6ZLXLDo4biO/preview"
               },
               {
-                "pdf4": "https://drive.google.com/file/d/1wA6BMKMZxhqBecmo74GVraNYtpVgSOLx/preview"
+                "pdf4": "https://drive.google.com/file/d/1EaWegPGw51Hq-4jopqmD-9YorROrv70e/preview"
               },
               {
-                "pdf5": "https://drive.google.com/file/d/1opd9Wxc-AdsiZOEKrU_MIERrp0Zv1dPj/preview"
+                "pdf5": "https://drive.google.com/file/d/1wA6BMKMZxhqBecmo74GVraNYtpVgSOLx/preview"
               },
               {
-                "pdf6": "https://drive.google.com/file/d/1uwFFdMSIVJSVLxA4jMQpKRTH1EVpIZbk/preview"
+                "pdf6": "https://drive.google.com/file/d/1opd9Wxc-AdsiZOEKrU_MIERrp0Zv1dPj/preview"
+              },
+              {
+                "pdf7": "https://drive.google.com/file/d/1uwFFdMSIVJSVLxA4jMQpKRTH1EVpIZbk/preview"
               }
             ]
           },
           {
             "unit5": [
               {
-                "pdf1": "https://drive.google.com/file/d/1zxkGFS9zlPjbh43ypDyQASQ5nZId-PUD/preview"
+                "pdf1": "https://drive.google.com/file/d/1elh5ONlboWCUJcvvHKqX3pgU0gvqU3G4/preview"
               },
               {
-                "pdf2": "https://drive.google.com/file/d/1q1YtzCbmNHthmuzNraw__cJXlyGIhj0h/preview"
+                "pdf2": "https://drive.google.com/file/d/1zxkGFS9zlPjbh43ypDyQASQ5nZId-PUD/preview"
               },
               {
-                "pdf3": "https://drive.google.com/file/d/1jUyIIjFNJqqTDLry6PMc_Yeg08YF5aHU/preview"
+                "pdf3": "https://drive.google.com/file/d/1q1YtzCbmNHthmuzNraw__cJXlyGIhj0h/preview"
               },
               {
-                "pdf4": "https://drive.google.com/file/d/1I0sENq9BuBjDZ6Qh2aUvRfqk0Grj8cYv/preview"
+                "pdf4": "https://drive.google.com/file/d/1jUyIIjFNJqqTDLry6PMc_Yeg08YF5aHU/preview"
+              },
+              {
+                "pdf5": "https://drive.google.com/file/d/1I0sENq9BuBjDZ6Qh2aUvRfqk0Grj8cYv/preview"
               }
             ]
           }
@@ -1170,6 +1191,132 @@
       },
       {
         "syllabus": "https://drive.google.com/file/d/1iiwLqGvrWnPVCI5YJxrpiI7Hzzo_Na3-/preview"
+      }
+    ]
+  },
+  {
+    "Computer Graphics": [
+      {
+        "Notes": [
+          {
+            "unit1": [
+              {
+                "pdf1": "https://drive.google.com/file/d/1OOtN0TrnrtLK9gbWxKN4OWEKXKrUcI00/preview"
+              }
+            ]
+          },
+          {
+            "unit2": [
+              {
+                "pdf1": "https://drive.google.com/file/d/1_EOglpisbW860V0AYM4fYH5fzVaMOXcF/preview"
+              }
+            ]
+          },
+          {
+            "unit3": [
+              {
+                "pdf1": "https://drive.google.com/file/d/1Nz0FapN0StiNh6kYuBzB7YED_tJyYUt2/preview"
+              }
+            ]
+          },
+          {
+            "unit4": [
+              {
+                "pdf1": [false]
+              }
+            ]
+          },
+          {
+            "unit5": [
+              {
+                "pdf1": [false]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "pyqs": [false]
+      },
+      {
+        "ImpQuestions": [false]
+      },
+      {
+        "syllabus": "https://drive.google.com/file/d/1L4gSzHBA-zHcbnLWDhbMVZ65jct6hPUw/preview"
+      }
+    ]
+  },
+  {
+    "Sensor Technology": [
+      {
+        "Notes": [
+          {
+            "unit1": [
+              {
+                "pdf1": "https://drive.google.com/file/d/1W9GqWL7AygldsxTJhLFS-5gDrvgs1oTb/preview"
+              },
+              {
+                "pdf2": "https://docs.google.com/presentation/d/19cVq8nI1ol8VlIYEAeZiv28js4h-5ULj/preview?rm=minimal"
+              },
+              {
+                "pdf3": "https://drive.google.com/file/d/1r6DtJoCnNgi8EnbjuHl06NaGLcssfMyp/preview"
+              }
+            ]
+          },
+          {
+            "unit2": [
+              {
+                "pdf1": "https://docs.google.com/presentation/d/10RY31dKt1Hq5fFcqBx_7pxR75qFOwEyv/preview?rm=minimal"
+              }
+            ]
+          },
+          {
+            "unit3": [
+              {
+                "pdf1": "https://drive.google.com/file/d/107bMebrB1Hl_BG6wPkoz8yr6mHVil_L-/preview"
+              }
+            ]
+          },
+          {
+            "unit4": [
+              {
+                "pdf1": "https://drive.google.com/file/d/1YwKHKvkXY1XjykrCEyP0J63jmBQNL9jE/preview"
+              },
+              {
+                "pdf2": "https://drive.google.com/file/d/1Z1adY7x6R9aAjHL6DQan8BRGdTaYPwlO/preview"
+              }
+            ]
+          },
+          {
+            "unit5": [
+              {
+                "pdf1": [false]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "pyqs": "https://drive.google.com/file/d/12OmSTnY-AaHovBOiREmYIJamLO2U2At6/preview"
+      },
+      {
+        "ImpQuestions":  [
+          {
+            "pdf1": "https://drive.google.com/file/d/1Hgbel4rxX1BWYdUiwpCQETYttcx-eP7b/preview"
+          },
+          {
+            "pdf2": "https://drive.google.com/file/d/1KoWWtBBdgOtHUMjFjAgRmxlPQl-fMpB6/preview"
+          },
+          {
+            "pdf3": "https://drive.google.com/file/d/1wKU6r39_CP5zk48VqZtiERt3_UaugLTV/preview"
+          },
+          {
+            "pdf4": "https://drive.google.com/file/d/1FuMgMUP6De9KtIbdtDombL5mCgVofQyM/preview"
+          }
+        ]
+      },
+      {
+        "syllabus": "https://drive.google.com/file/d/1caUarF8WccC0kuUSis_RsjfDm-UV9TKm/preview"
       }
     ]
   }
