@@ -55,7 +55,7 @@ router.post('/login', async (req, res) => {
 router.post("/getprofile", async (req, res) => {
   try {
     const id = await Buffer.from(req.body.id, 'base64').toString('utf8')
-    const user = await User.findOne({ _id: req.body.id });
+    const user = await User.findOne({ _id: id });
     return res.json({ user: user, message: "successfully fetched profile", success: "success" })
   } catch (error) {
     return res.status(400).json({ message: "some error occured", success: "fail" });
