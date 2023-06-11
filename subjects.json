@@ -1342,7 +1342,7 @@
         ]
       },
       {
-        "pyqs": "https://drive.google.com/file/d/12OmSTnY-AaHovBOiREmYIJamLO2U2At6/preview"
+        "pyqs": [{"pyq1":"https://drive.google.com/file/d/12OmSTnY-AaHovBOiREmYIJamLO2U2At6/preview"}]
       },
       {
         "ImpQuestions":  [
