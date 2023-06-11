@@ -171,7 +171,7 @@
       {
         "ImpQuestions": [
           {
-            "ques1": "https://drive.google.com/file/d/1kn6LzIiqqEaUygXJeFZYWH4W1G8XH5RI/preview"
+            "imp1": "https://drive.google.com/file/d/1kn6LzIiqqEaUygXJeFZYWH4W1G8XH5RI/preview"
           }
         ]
       },
@@ -1301,7 +1301,7 @@
                 "pdf1": "https://drive.google.com/file/d/1W9GqWL7AygldsxTJhLFS-5gDrvgs1oTb/preview"
               },
               {
-                "pdf2": "https://docs.google.com/presentation/d/19cVq8nI1ol8VlIYEAeZiv28js4h-5ULj/preview?rm=minimal"
+                "pdf2": "https://docs.google.com/presentation/d/19cVq8nI1ol8VlIYEAeZiv28js4h-5ULj/preview?slide=id.p1"
               },
               {
                 "pdf3": "https://drive.google.com/file/d/1r6DtJoCnNgi8EnbjuHl06NaGLcssfMyp/preview"
@@ -1311,7 +1311,7 @@
           {
             "unit2": [
               {
-                "pdf1": "https://docs.google.com/presentation/d/10RY31dKt1Hq5fFcqBx_7pxR75qFOwEyv/preview?rm=minimal"
+                "pdf1": "https://docs.google.com/presentation/d/10RY31dKt1Hq5fFcqBx_7pxR75qFOwEyv/preview?slide=id.p1"
               }
             ]
           },
@@ -1342,21 +1342,21 @@
         ]
       },
       {
-        "pyqs": "https://drive.google.com/file/d/12OmSTnY-AaHovBOiREmYIJamLO2U2At6/preview"
+        "pyqs": [{"pyq1":"https://drive.google.com/file/d/12OmSTnY-AaHovBOiREmYIJamLO2U2At6/preview"}]
       },
       {
         "ImpQuestions":  [
           {
-            "pdf1": "https://drive.google.com/file/d/1Hgbel4rxX1BWYdUiwpCQETYttcx-eP7b/preview"
+            "imp1": "https://drive.google.com/file/d/1Hgbel4rxX1BWYdUiwpCQETYttcx-eP7b/preview"
           },
           {
-            "pdf2": "https://drive.google.com/file/d/1KoWWtBBdgOtHUMjFjAgRmxlPQl-fMpB6/preview"
+            "imp2": "https://drive.google.com/file/d/1KoWWtBBdgOtHUMjFjAgRmxlPQl-fMpB6/preview"
           },
           {
-            "pdf3": "https://drive.google.com/file/d/1wKU6r39_CP5zk48VqZtiERt3_UaugLTV/preview"
+            "imp3": "https://drive.google.com/file/d/1wKU6r39_CP5zk48VqZtiERt3_UaugLTV/preview"
           },
           {
-            "pdf4": "https://drive.google.com/file/d/1FuMgMUP6De9KtIbdtDombL5mCgVofQyM/preview"
+            "imp4": "https://drive.google.com/file/d/1FuMgMUP6De9KtIbdtDombL5mCgVofQyM/preview"
           }
         ]
       },
