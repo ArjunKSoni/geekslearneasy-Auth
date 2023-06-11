@@ -54,6 +54,7 @@ router.post('/login', async (req, res) => {
 
 router.post("/getprofile", async (req, res) => {
   try {
+    const id = await Buffer.from(req.body.id, 'base64').toString('utf8')
     const user = await User.findOne({ _id: req.body.id });
     return res.json({ user: user, message: "successfully fetched profile", success: "success" })
   } catch (error) {
