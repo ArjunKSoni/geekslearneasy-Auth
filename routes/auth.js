@@ -52,6 +52,14 @@ router.post('/login', async (req, res) => {
   }
 })
 
+router.post("/getprofile", async (req, res) => {
+  try {
+    const user = await User.findOne({ _id: req.body.id });
+    return res.json({ user: user, message: "successfully fetched profile", success: "success" })
+  } catch (error) {
+    return res.status(400).json({ message: "some error occured", success: "fail" });
+  }
+})
 
 
 router.post("/updateProfile", async (req, res) => {
