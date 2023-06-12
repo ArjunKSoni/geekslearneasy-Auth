@@ -1266,16 +1266,12 @@
           },
           {
             "unit4": [
-              {
-                "pdf1": [false]
-              }
+              false
             ]
           },
           {
             "unit5": [
-              {
-                "pdf1": [false]
-              }
+              false
             ]
           }
         ]
@@ -1334,9 +1330,7 @@
           },
           {
             "unit5": [
-              {
-                "pdf1": [false]
-              }
+              false
             ]
           }
         ]
